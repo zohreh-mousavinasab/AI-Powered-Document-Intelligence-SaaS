@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
+    base: "/AI-Powered-Document-Intelligence-SaaS/",
     server: {
       host: "127.0.0.1",
       port: 5173,
