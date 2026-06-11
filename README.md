@@ -1,4 +1,4 @@
-# DocMind AI
+# DocMind AI 
 
 DocMind AI is a local-first document Q&A app. It helps you upload PDFs or TXT files, index them locally, and ask questions with grounded answers and source references.
 
